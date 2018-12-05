@@ -1,6 +1,8 @@
 public class Main {
 
     public static void pierwszy(String[] args){
-        System.out.println("Dupa");
+        String s = "Dupa = ";
+        int wymiar = 34;
+        System.out.println(s + wymiar);
     }
 }
